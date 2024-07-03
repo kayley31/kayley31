@@ -2,4 +2,4 @@
 - 👩‍💻 I'm an aspiring developer, having just completed the Code First Girls CFGdegree
 - ✨ I studied on the Full-Stack Developer pathway, so have learned JavaScript, Python and SQL, and have used frameworks/libraries including React, Redux, Node.js, Express.js and Bootstrap
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 I'm originally from Glasgow, but have been based in London for the past 7 years
-- 📫 You can find me on LinkedIn at [linkedin.com/in/kayleydonnelly/[ (linkedin.com/in/kayleydonnelly/)
+- 📫 You can find me on LinkedIn at [linkedin.com/in/kayleydonnelly/] (linkedin.com/in/kayleydonnelly/)
