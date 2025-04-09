@@ -1,5 +1,4 @@
-- 👋 Hiya, I'm @kayley31, aka Kayley Donnelly
-- 👩‍💻 I'm an aspiring developer, having just completed the Code First Girls CFGdegree
-- ✨ I studied on the Full-Stack Developer pathway, so have learned JavaScript, Python and SQL, and have used frameworks/libraries including React, Redux, Node.js, Express.js and Bootstrap
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 I'm originally from Glasgow, but have been based in London for the past 7 years
+- 👋 Hiya, I'm @kayley31, aka Kayley Donnelly, a Junior Software Developer
+- 👩‍💻 Last year I completed the Code First Girls CFGDegree on the Full-Stack Developer pathway
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 I'm originally from Glasgow, but have been based in London for the past 8 years
 - 📫 You can find me on LinkedIn at [linkedin.com/in/kayleydonnelly/](https://www.linkedin.com/in/kayleydonnelly/)
