@@ -1,4 +1,4 @@
-- 👋 Hiya, I'm @kayley31, aka Kayley Donnelly, a Junior Software Developer
-- 👩‍💻 Last year I completed the Code First Girls CFGDegree on the Full-Stack Developer pathway
+- 👋 Hi! I'm @kayley31, a Software Developer
+- 👩‍💻 In 2024 I completed the Code First Girls CFGDegree on the Full-Stack Developer pathway
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 I'm originally from Glasgow, but have been based in London for the past 8 years
 - 📫 You can find me on LinkedIn at [linkedin.com/in/kayleydonnelly/](https://www.linkedin.com/in/kayleydonnelly/)
